@@ -15,3 +15,5 @@ then after a "cat /tmp/djfbksbfwf.txt"
 And there the boot logs will appear, and to remove the module use "rmmod bootkern" and remember to use all commands in root mode or with sudo
 
 If the Makefile doesn't work, check your kernel version, and if it's outdated, update it by downloading your kernel headers.
+
+Demonstration: https://www.youtube.com/watch?v=joMcpuaniSc
