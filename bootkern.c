@@ -41,5 +41,5 @@ module_init(capture_logs_init);
 module_exit(capture_logs_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("aodjadwjioad");
-MODULE_DESCRIPTION("sadhaiudhsaiudhl");
+MODULE_AUTHOR("R4idB0y");
+MODULE_DESCRIPTION("Capture logs of boot");
